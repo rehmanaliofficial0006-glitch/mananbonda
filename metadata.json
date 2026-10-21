@@ -1,0 +1,8 @@
+{
+  "name": "Dock Gamerz",
+  "description": "A high-end mobile-responsive gaming platform with a sleek dark interface for tournament management, match joining, and reward tracking for Dock Gamerz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
